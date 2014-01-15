@@ -1,6 +1,6 @@
 # Take it Back-athon
 
-Taking back hackathons, focussing on pure fun and delight.
+Taking back hackathons, focusing on pure fun and delight.
 
 ![keyboard](http://f.cl.ly/items/2D2P271Y1q2T201Y2C3B/computer_keyboard.png)
 
@@ -18,6 +18,7 @@ Specifically, these are a few things we're seeing that are a little discouraging
 6. Judging criteria not being adhered to by judges
 7. Demo time is not valued or celebrated as the magic part of the event
 8. Safe rather than silly
+9. Absurdly large cash prizes that attract a different crowd and promote less than friendly behaviour
 
 
 ### Isn't this just your opinion?
@@ -31,14 +32,15 @@ Take it Back-athon is a tongue-in-cheek name we came up with to rally the Captai
 
 ### Tell me more.
 Well, we kinda want to leave the rest up to you. But to get you started, here are some ideas below on how to throw a Take it Back-athon hackathon:
-* Award funny prizes such as 'least likely to be successful on Kickstarter' or 'most gratuitous use of API's'
+* Award humorous prizes in categories such as 'least likely to be successful on Kickstarter' or 'most gratuitous use of API's'
 * Encourage attendees to consider their audience to be the other hackers in the room, less so the sponsors and judges
+* Pick non-traditional and varied judges: artists, rabbis, janitors, poets, moms, zoo keepers - mix it up!
 * Provide some fun themes to get people thinking about what they would make
 * Bring back the demos, less polish needed on those slides
 * Bring in some inspiring mentors to get people excited
 * Organise a fun icebreaking event the night before (with mentor demo time)
 * Encourage those with limited coding and design skills to attend (they will learn so much)
-* Create an inclusive and mandatory code of conduct. JSConf folks have a [great one here for your reference](http://jsconf.com/codeofconduct.html), and a [blog post from Chris Williams](http://voodootikigod.com/our-culture-of-change/) about the topic . Eyeo Festival also have an [excellent one here](http://eyeofestival.com/policies-and-guidelines/). [Adafruit is also a fabulous resource](http://adainitiative.org/what-we-do/conference-policies/) for this.
+* Create an inclusive and mandatory code of conduct. JSConf folks have a [great one here for your reference](http://jsconf.com/codeofconduct.html), and a [blog post from Chris Williams](http://voodootikigod.com/our-culture-of-change/) about the topic . Eyeo Festival also have an [excellent one here](http://eyeofestival.com/policies-and-guidelines/). [the Ada Initiative is also a fabulous resource](http://adainitiative.org/what-we-do/conference-policies/) for this.
 * Related to the above point, find minorities and extend an invite. This means anyone who is not a white, cisgender, hetero, able bodied, middleclass/upperclass man. Give away free tickets to minority participants. Educate those who try on the 'special treatment' protest.
 
 ### What now?
