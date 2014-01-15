@@ -50,4 +50,3 @@ Feel free to fork or pull request. This is hopefully just the beginning. Let us 
 
 ![cats on trampoline](http://farm9.staticflickr.com/8422/7738138108_f65beeab50.jpg)  
 Illustration by the talented [@amieteacake](http://twitter.com/amieteacake)
-
