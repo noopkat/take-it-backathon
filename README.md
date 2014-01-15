@@ -48,6 +48,7 @@ Feel free to fork or pull request. This is hopefully just the beginning. Let us 
 * [IT World - Are hackathons being hijacked by opportunists?](http://www.itworld.com/software/277913/are-hackathons-being-hijacked-opportunists)
 * [Exversion - The Ethical Hackathon Or: How We Learned To Put On A Good Hackathon And Make Hackers Happy](http://exversiondata.wordpress.com/2013/11/15/the-ethical-hackathon-or-how-we-learned-to-put-on-a-good-hackathon-and-make-hackers-happy/)
 * [Mashery - The Evolution of the Hackathon](http://www.mashery.com/blog/evolution-hackathon)
+* [Dave Fontenot - Dear Corporations...](https://medium.com/hackers-and-hacking/21a692021b65)
 
 ![cats on trampoline](http://farm9.staticflickr.com/8422/7738138108_f65beeab50.jpg)  
 Illustration by the talented [@amieteacake](http://twitter.com/amieteacake)
