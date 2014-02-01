@@ -1007,6 +1007,37 @@
 			color: #777;
 		}
 
+		#about ul {
+			padding-top: 20px;
+			list-style-type: circle;
+			list-style-position: inside;
+			margin: 20px auto;
+			width: 65%;
+		}
+
+		#about li
+		{
+			font-size: 1.25em;
+			padding-bottom: 10px;
+			text-align: left;
+		}
+
+		#about span {
+			padding-bottom: 20px;
+		}
+#about .box ul {
+	list-style-type: none;
+		width: 100%;
+} 
+
+#about .box ul li {
+	font-size: 0.9em;
+	padding: 0px;
+	margin:0px;
+	text-align: center;
+
+} 
+
 /* HAX */
 header span {
 	display: block;
