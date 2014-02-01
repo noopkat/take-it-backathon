@@ -248,13 +248,8 @@
 		border-radius: 8px;
 		text-shadow: -1px -1px 0.5px rgba(0,0,0,0.5);
 		overflow: hidden;
-		background: #61b8db;
-		background-image: -moz-linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
-		background-image: -webkit-linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
-		background-image: -o-linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
-		background-image: -ms-linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
-		background-image: linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
-		box-shadow: inset 0px 0px 0px 1px #135c86, inset 0px 2px 1px 0px rgba(255,255,255,0.75);
+		background: #c0a1cb;
+		box-shadow: inset 0px 0px 0px 1px #888, inset 0px 2px 1px 0px rgba(255,255,255,0.75);
 		-moz-transition: background-color .2s ease-in-out;
 		-webkit-transition: background-color .2s ease-in-out;
 		-o-transition: background-color .2s ease-in-out;
@@ -271,12 +266,12 @@
 			top: 0;
 			width: 100%;
 			height: 100%;
-			background: url('images/bg.png');
+			
 		}
 
 		.button:hover
 		{
-			background-color: #76cdf0;
+			background-color: #da99b7;
 			color: #fff !important;
 		}
 		
@@ -966,6 +961,11 @@
 	#top
 	{
 	}
+
+		#top .cats
+		{
+			margin-top: -7em;
+		}
 
 		#top .me
 		{
