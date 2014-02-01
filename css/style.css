@@ -1006,3 +1006,9 @@
 		{
 			color: #777;
 		}
+
+/* HAX */
+header span {
+	display: block;
+	margin: 0 10%;
+}
