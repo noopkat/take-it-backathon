@@ -191,12 +191,13 @@
 	#copyright
 	{
 		font-size: 1em;
+		margin-bottom: 0;
 	}
 
 		#copyright li
 		{
 			display: inline-block;
-			border-left: solid 1px rgba(0,0,0,0.5);
+			border-left: dashed 1px rgba(0,0,0,0.25);
 			box-shadow: -1px 0px 0px 0px rgba(255,255,255,0.1);
 			padding: 0 1em 0 1em;
 		}
@@ -207,3 +208,11 @@
 			box-shadow: none;
 			padding-left: 0;
 		}
+
+	#attr {
+		font-size: 0.70em;
+	}
+
+	#bigfoot {
+		margin: 1em;
+	}
