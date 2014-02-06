@@ -51,6 +51,8 @@ Feel free to fork or pull request. This is hopefully just the beginning. Let us 
 ### Hackathons we rate:
 * [Trans*HACK](http://www.transhack.org/)
 * [Give Camp](http://givecamp.org/)
+* [Comedy Hack Day](http://comedyhackday.org/)
+* [Music Hack Day](http://new.musichackday.org/)
 
 ### Appendix
 * [IT World - Are hackathons being hijacked by opportunists?](http://www.itworld.com/software/277913/are-hackathons-being-hijacked-opportunists)
@@ -58,6 +60,7 @@ Feel free to fork or pull request. This is hopefully just the beginning. Let us 
 * [Mashery - The Evolution of the Hackathon](http://www.mashery.com/blog/evolution-hackathon)
 * [Dave Fontenot - Dear Corporations...](https://medium.com/hackers-and-hacking/21a692021b65)
 * [Jamie Syth - Corporate Hackathons: The Fine Line Between Engaging and Exploiting](http://jamiemsmyth.blogspot.com/2013/01/corporate-hackathons-fine-line-between.html)
+* [Fast Co - Are Company Hackathons Still Worthwhile?](http://www.fastcolabs.com/3022933/open-company/are-company-hackathons-still-worthwhile)
 
 ![cats on trampoline](http://farm9.staticflickr.com/8422/7738138108_f65beeab50.jpg)  
 Illustration by the talented [@amieteacake](http://twitter.com/amieteacake)
