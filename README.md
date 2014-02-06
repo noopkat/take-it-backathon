@@ -53,6 +53,7 @@ Feel free to fork or pull request. This is hopefully just the beginning. Let us 
 * [Give Camp](http://givecamp.org/)
 * [Comedy Hack Day](http://comedyhackday.org/)
 * [Music Hack Day](http://new.musichackday.org/)
+* [SuperHappyDevHouse](http://superhappydevhouse.org/w/page/16345504/FrontPage)
 
 ### Appendix
 * [IT World - Are hackathons being hijacked by opportunists?](http://www.itworld.com/software/277913/are-hackathons-being-hijacked-opportunists)
