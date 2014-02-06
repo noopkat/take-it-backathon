@@ -48,6 +48,10 @@ Well, we kinda want to leave the rest up to you. But to get you started, here ar
 ### What now?
 Feel free to fork or pull request. This is hopefully just the beginning. Let us know if you have any ideas to contribute, and call us out if we are missing important topics or if we've said something shitty. We're nice people, we promise.
 
+### Hackathons we rate:
+* [Trans*HACK](http://www.transhack.org/)
+* [Give Camp](http://givecamp.org/)
+
 ### Appendix
 * [IT World - Are hackathons being hijacked by opportunists?](http://www.itworld.com/software/277913/are-hackathons-being-hijacked-opportunists)
 * [Exversion - The Ethical Hackathon Or: How We Learned To Put On A Good Hackathon And Make Hackers Happy](http://exversiondata.wordpress.com/2013/11/15/the-ethical-hackathon-or-how-we-learned-to-put-on-a-good-hackathon-and-make-hackers-happy/)
