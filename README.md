@@ -2,6 +2,8 @@
 
 Taking back hackathons, focussing on pure fun and delight.
 
+[Las Vegas Chapter pilot event](http://takeitbackathon.com)
+
 ![keyboard](http://f.cl.ly/items/2D2P271Y1q2T201Y2C3B/computer_keyboard.png)
 
 ### What's going on?
