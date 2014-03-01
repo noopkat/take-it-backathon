@@ -2,6 +2,8 @@
 
 Taking back hackathons, focussing on pure fun and delight.
 
+[Las Vegas Chapter pilot event](http://takeitbackathon.com)
+
 ![keyboard](http://f.cl.ly/items/2D2P271Y1q2T201Y2C3B/computer_keyboard.png)
 
 ### What's going on?
@@ -48,12 +50,20 @@ Well, we kinda want to leave the rest up to you. But to get you started, here ar
 ### What now?
 Feel free to fork or pull request. This is hopefully just the beginning. Let us know if you have any ideas to contribute, and call us out if we are missing important topics or if we've said something shitty. We're nice people, we promise.
 
+### Hackathons we rate:
+* [Trans*HACK](http://www.transhack.org/)
+* [Give Camp](http://givecamp.org/)
+* [Comedy Hack Day](http://comedyhackday.org/)
+* [Music Hack Day](http://new.musichackday.org/)
+* [SuperHappyDevHouse](http://superhappydevhouse.org/w/page/16345504/FrontPage)
+
 ### Appendix
 * [IT World - Are hackathons being hijacked by opportunists?](http://www.itworld.com/software/277913/are-hackathons-being-hijacked-opportunists)
 * [Exversion - The Ethical Hackathon Or: How We Learned To Put On A Good Hackathon And Make Hackers Happy](http://exversiondata.wordpress.com/2013/11/15/the-ethical-hackathon-or-how-we-learned-to-put-on-a-good-hackathon-and-make-hackers-happy/)
 * [Mashery - The Evolution of the Hackathon](http://www.mashery.com/blog/evolution-hackathon)
 * [Dave Fontenot - Dear Corporations...](https://medium.com/hackers-and-hacking/21a692021b65)
 * [Jamie Syth - Corporate Hackathons: The Fine Line Between Engaging and Exploiting](http://jamiemsmyth.blogspot.com/2013/01/corporate-hackathons-fine-line-between.html)
+* [Fast Co - Are Company Hackathons Still Worthwhile?](http://www.fastcolabs.com/3022933/open-company/are-company-hackathons-still-worthwhile)
 
 ![cats on trampoline](http://farm9.staticflickr.com/8422/7738138108_f65beeab50.jpg)  
 Illustration by the talented [@amieteacake](http://twitter.com/amieteacake)
