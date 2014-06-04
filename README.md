@@ -57,6 +57,7 @@ Feel free to fork or pull request. This is hopefully just the beginning. Let us 
 * [Comedy Hack Day](http://comedyhackday.org/)
 * [Music Hack Day](http://new.musichackday.org/)
 * [SuperHappyDevHouse](http://superhappydevhouse.org/w/page/16345504/FrontPage)
+* [Hacker Olympics](http://thehackerolympics.com/)
 
 ### Appendix
 * [IT World - Are hackathons being hijacked by opportunists?](http://www.itworld.com/software/277913/are-hackathons-being-hijacked-opportunists)
@@ -65,6 +66,7 @@ Feel free to fork or pull request. This is hopefully just the beginning. Let us 
 * [Dave Fontenot - Dear Corporations...](https://medium.com/hackers-and-hacking/21a692021b65)
 * [Jamie Syth - Corporate Hackathons: The Fine Line Between Engaging and Exploiting](http://jamiemsmyth.blogspot.com/2013/01/corporate-hackathons-fine-line-between.html)
 * [Fast Co - Are Company Hackathons Still Worthwhile?](http://www.fastcolabs.com/3022933/open-company/are-company-hackathons-still-worthwhile)
+* [Are Hackathon Prizes The Worst Thing Since Moldy Sliced Bread?](http://mlh.io/blog/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014/)
 
 ![cats on trampoline](http://farm9.staticflickr.com/8422/7738138108_f65beeab50.jpg)  
 Illustration by the talented [@amieteacake](http://twitter.com/amieteacake)
