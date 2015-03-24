@@ -3,7 +3,7 @@
 Taking back hackathons, focussing on pure fun and delight.
 
 + [Las Vegas Chapter pilot event](http://takeitbackathon.com)
-+ [A write up of the Las Vegas event](http://meow.suziam.com/take-it-back-athon-a-hackathon-for-kicks-and-giggles/)
++ [A write up of the Las Vegas event](http://meow.noopkat.com/take-it-back-athon-a-hackathon-for-kicks-and-giggles/)
 
 ![keyboard](http://f.cl.ly/items/2D2P271Y1q2T201Y2C3B/computer_keyboard.png)
 
