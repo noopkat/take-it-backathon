@@ -44,7 +44,7 @@ Well, we kinda want to leave the rest up to you. But to get you started, here ar
 * Bring in some inspiring mentors to get people excited
 * Organise a fun icebreaking event the night before (with mentor demo time)
 * Hack on anything. It doesn’t have to be software. You can make a robot. Or design a board game in illustrator, or compose a love song about cats and capybaras
-* Encourage those with limited coding and design skills to attend (they will learn so much)
+* Encourage those with limited coding and design skills to attend (they will learn so much and have other skills to offer)
 * Create an inclusive and mandatory code of conduct. JSConf folks have a [great one here for your reference](http://jsconf.com/codeofconduct.html), and a [blog post from Chris Williams](http://voodootikigod.com/our-culture-of-change/) about the topic . Eyeo Festival also have an [excellent one here](http://eyeofestival.com/policies-and-guidelines/). [the Ada Initiative is also a fabulous resource](http://adainitiative.org/what-we-do/conference-policies/) for this.
 * Related to the above point, find minorities and extend an invite. This means anyone who is not a white, cisgender, hetero, able bodied, middleclass/upperclass man. Give away free tickets to minority participants. Educate those who try on the 'special treatment' protest.
 
